@@ -7,7 +7,7 @@ device — no account, no servers, no tracking, and it's completely free.
 
 ## Documents
 
-- **[Privacy Policy](https://services.brightember.co/Phillyra/privacy-policy.html)** —
+- **[Privacy Policy](https://apps.brightember.co/Phillyra/privacy-policy.html)** —
   the short version: nothing about you is collected, by construction.
 
 ## Support
